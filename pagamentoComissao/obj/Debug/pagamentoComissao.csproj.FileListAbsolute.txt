@@ -1,0 +1,7 @@
+C:\Users\copag\source\repos\pagamentoComissao\pagamentoComissao\bin\Debug\pagamentoComissao.exe.config
+C:\Users\copag\source\repos\pagamentoComissao\pagamentoComissao\bin\Debug\pagamentoComissao.exe
+C:\Users\copag\source\repos\pagamentoComissao\pagamentoComissao\bin\Debug\pagamentoComissao.pdb
+C:\Users\copag\source\repos\pagamentoComissao\pagamentoComissao\obj\Debug\pagamentoComissao.csproj.AssemblyReference.cache
+C:\Users\copag\source\repos\pagamentoComissao\pagamentoComissao\obj\Debug\pagamentoComissao.csproj.CoreCompileInputs.cache
+C:\Users\copag\source\repos\pagamentoComissao\pagamentoComissao\obj\Debug\pagamentoComissao.exe
+C:\Users\copag\source\repos\pagamentoComissao\pagamentoComissao\obj\Debug\pagamentoComissao.pdb
